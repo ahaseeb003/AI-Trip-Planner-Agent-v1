@@ -35,7 +35,7 @@ ai_trip_planner/
 
 ### 1. Clone and Install
 ```bash
-git clone <your-repo-url>
+git clone (https://github.com/ahaseeb003/AI-Trip-Planner-Agent-v1)
 cd ai_trip_planner
 pip install -r requirements.txt
 ```
